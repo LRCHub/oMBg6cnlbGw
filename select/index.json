@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "One Week",
+  "base_artist": "Leina",
+  "createdAt": "2026-03-11T10:46:38.163600Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seven Days and One Week (club mix)",
+      "artist": "B.B.E.",
+      "has_synced": false,
+      "path": "select/01_Seven_Days_and_One_Week_(club_mix)_B.B.E..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seven Days and One Week (radio edit)",
+      "artist": "B.B.E.",
+      "has_synced": false,
+      "path": "select/02_Seven_Days_and_One_Week_(radio_edit)_B.B.E..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Week of Danger",
+      "artist": "The Virgins",
+      "has_synced": true,
+      "path": "select/03_One_Week_of_Danger_The_Virgins.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Week",
+      "artist": "Say Sue Me",
+      "has_synced": true,
+      "path": "select/04_One_Week_Say_Sue_Me.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Week",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/05_One_Week_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jerry Springer (Parody of \"One Week\" By BareNaked Ladies)",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": false,
+      "path": "select/06_Jerry_Springer_(Parody_of__One_Week__By_BareNaked_Ladies)_Weird_Al__Yankovic.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Week",
+      "artist": "Barenaked Ladies",
+      "has_synced": false,
+      "path": "select/07_One_Week_Barenaked_Ladies.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Week",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/08_One_Week_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "7 Days And One Week",
+      "artist": "B.B.E.",
+      "has_synced": false,
+      "path": "select/09_7_Days_And_One_Week_B.B.E..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Week",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/10_One_Week_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Week",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/11_One_Week_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Week",
+      "artist": "The Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/12_One_Week_The_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Week Of Danger",
+      "artist": "Virgins, The",
+      "has_synced": true,
+      "path": "select/13_One_Week_Of_Danger_Virgins,_The.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Week",
+      "artist": "Leina",
+      "has_synced": false,
+      "path": "select/pl_01_One_Week_Leina.txt"
+    }
+  ]
+}
